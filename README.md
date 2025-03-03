@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👯 I’m looking to collaborate on **Data Science and Political Science Projects**
+- 👯 I’m looking to collaborate on **Data Science and Social Science Projects**
 
 - 💬 Ask me about **Quantitative Methods and Digital Tools**
 
