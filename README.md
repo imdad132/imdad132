@@ -1,12 +1,13 @@
 # Hello 👋
 
-I am Imdad Ullah, a political scientist with a PhD in Political Science, specialising in **Strategic Studies**. I’m passionate about applying **data science** and **AI** methods to global security, political risk, and crisis prediction.
+I am Imdad Ullah, a German-based political scientist with a PhD in Political Science (University of Erfurt), specialising in **Strategic Studies**. I’m passionate about applying **data science** and **AI** methods to global security, political risk, and crisis prediction.
 
 Currently, I’m studying **Data Science at ReDI School**, where I'm expanding my skills in **Machine Learning**, **Statistical Analysis**, **Natural Language Processing (NLP)**, and **Data Visualization**. I’m particularly interested in how computational methods can enhance strategic foresight and evidence-based policy in international relations.
 
 In my academic and applied work, I regularly use **Python**, **R**, **STATA**, and **SPSS** for:
 - Political data analysis
 - Sentiment and text analysis (NLP)
+- AI and Machine Learning
 - Conflict and risk modelling
 - Quantitative research in security and strategic affairs
 
