@@ -1,21 +1,21 @@
 # Hello 👋
 
-I am Imdad Ullah, a German-based political scientist with a PhD in Political Science (University of Erfurt), specialising in **Strategic Studies**. I’m passionate about applying **data science** and **AI** methods to global security, political risk, and crisis prediction.
+I am Imdad Ullah, a German-based political scientist with a PhD in Political Science (University of Erfurt), specialising in **Strategic Studies**. I’m passionate about applying **data science** and **AI** methods to European security, drone warfare, and military innovation and adaptation.
 
-Currently, I’m studying **Data Science at ReDI School**, where I'm expanding my skills in **Machine Learning**, **Statistical Analysis**, **Natural Language Processing (NLP)**, and **Data Visualization**. I’m particularly interested in how computational methods can enhance strategic foresight and evidence-based policy in international relations.
+Currently, I’m studying **Data Science at ReDI School**, where I'm expanding my skills in **Machine Learning**, **Statistical Analysis**, **Natural Language Processing (NLP)**, and **Data Visualization**. I’m particularly interested in how computational methods can enhance strategic foresight and evidence-based security policy in Europe (more specifically in Eastern Europe).
 
-In my academic and applied work, I regularly use **Python**, **R**, **STATA**, and **SPSS** for:
-- Political data analysis
+In my academic and applied work, I regularly use **Python**, and also sometimes, **R**, **STATA**, and **SPSS** for:
+- Warfare data analysis
 - Sentiment and text analysis (NLP)
-- AI and Machine Learning
+- Analysing insecurity and threat perception in Eastern Europe by using Supervised Machine Learning
 - Conflict and risk modelling
-- Quantitative research in security and strategic affairs
+- Dataviz to project trends and patterns in wars and drone warfare
 
 ---
 
 ## 🔍 Projects you'll find here (current and planned):
 
-📊 **Political and Strategic Data Visualisations**  
+📊 **Strategic Data Visualisations**  
 📈 **NLP & Sentiment Analysis Projects**  
 📚 **Academic Research Tools in Python and R**  
 🧠 **AI for Crisis Prediction & Early Warning**  
