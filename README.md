@@ -2,7 +2,7 @@
 
 I am Imdad Ullah, a German-based political scientist with a PhD in Political Science (University of Erfurt), specialising in **Strategic Studies**. I’m passionate about applying **data science** and **AI** methods to European security, drone warfare, and military innovation and adaptation.
 
-Currently, I’m studying **Data Science at ReDI School**, where I'm expanding my skills in **Machine Learning**, **Statistical Analysis**, **Natural Language Processing (NLP)**, and **Data Visualization**. I’m particularly interested in how computational methods can enhance strategic foresight and evidence-based security policy in Europe (more specifically in Eastern Europe).
+With my further training in **Data Science at the ReDI School of Digital Integration, Hamburg**, I expanded my skills in **Machine Learning**, **Statistical Analysis**, **Natural Language Processing (NLP)**, and **Data Visualization**. I’m particularly interested in how computational methods can enhance strategic foresight and evidence-based security policy in Europe (more specifically in Eastern Europe).
 
 In my academic and applied work, I regularly use **Python**, and also sometimes, **R**, **STATA**, and **SPSS** for:
 - Warfare data analysis
